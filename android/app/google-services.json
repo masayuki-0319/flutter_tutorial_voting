@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "657557099475",
+    "project_id": "flutter-tutorial-voting",
+    "storage_bucket": "flutter-tutorial-voting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657557099475:android:d8e6b543d6efbb38bf1526",
+        "android_client_info": {
+          "package_name": "com.example.flutter_tutorial_voting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657557099475-h24p7tkuedldpk4sk07idab9bp8mkc1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdiY6gUXlcMDFVviODtpOi_xec7LnlRA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657557099475-h24p7tkuedldpk4sk07idab9bp8mkc1t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "657557099475-9jkvi474gup5nen1lr7bv5skmmfd5c7t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterTutorialVoting"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
